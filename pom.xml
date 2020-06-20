@@ -10,8 +10,9 @@
 	</parent>
 	<groupId>io.buildpacks.example</groupId>
 	<artifactId>sample</artifactId>
+        <packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>sample</name>
+	<name>Java Application</name>
 	<description>Sample Java Application</description>
 
 	<properties>
